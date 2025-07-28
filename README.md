@@ -1,3 +1,2 @@
 # A-physical-analysis-of-hovercraft
-A physical analysis of hovercraft
 This project investigates the optimal design of air cushion vehicles (ACVs), focusing on balancing propulsion, lift, and stability. The study decomposes the hovercraft system into key components, including fan systems and cushion pressure zones, to achieve global optimization through local component improvements. Physical models are developed to characterize dynamic behavior, with an emphasis on comparing performance over land and water. The analysis includes simplified models for axial and centrifugal fans, peripheral jet configurations, and optimal fan positioning to minimize angular momentum effects and enhance passenger comfort.
